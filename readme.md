@@ -89,7 +89,7 @@ We can also make things ***bold and italic***
 
 ![An image of Ditto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/132.svg)
 
-![](132.svg)
+![An image of Ditto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/132.svg "Ditto")
 
 ## Advanced Features
 
